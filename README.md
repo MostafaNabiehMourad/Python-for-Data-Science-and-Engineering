@@ -6,4 +6,3 @@
 5. NumPy 
 6. Pandas
 7. API and WebScraping
-8. Matplotlib
